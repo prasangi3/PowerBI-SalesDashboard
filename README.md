@@ -50,7 +50,7 @@ All data cleaning and transformation were done in **Power Query Editor** within 
   - Customer Name
 
 ## Dashboard Screenshot
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 
 ## Files Included
