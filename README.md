@@ -55,7 +55,7 @@ All data cleaning and transformation were done in **Power Query Editor** within 
 
 ## Files Included
 | File Name | Description |
-|-----------|-------------|
+|-----------|-------------| 
 | `Crown_Sales_Dashboard.pbix` | Power BI dashboard file |
 | `Sales_data.xlsx` | Excel source file used in Power BI |
 | `Dashboard.png` | Dashboard visual preview |
@@ -68,5 +68,5 @@ Thanks to **Crown Technologies and Solutions Pvt. Ltd.** for providing real-worl
 
 ---
 
-> 💡 *This project was completed as part of my internship/academic learning and demonstrates proficiency in Power BI, data transformation with Power Query, and data-driven storytelling.*
+>  *This project was completed as part of my internship/academic learning and demonstrates proficiency in Power BI, data transformation with Power Query, and data-driven storytelling.*
 
